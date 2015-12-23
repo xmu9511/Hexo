@@ -1,4 +1,4 @@
-title: blog-profile
+title: Blog Profile
 date: 2015-12-23 17:21:24
 tags:
 ---
