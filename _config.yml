@@ -70,4 +70,4 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:xmu9511/xmu9511.github.io.git
-  branch: gh-pages
+  branch: master
